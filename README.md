@@ -2,7 +2,7 @@
 The HomeDecorWebsite project aims to streamline the process of purchasing home decor items online, catering to the needs of both administrators and customers. With a focus on user-friendliness and accessibility, the platform allows administrators to efficiently manage product listings, update information, and handle transactions. Customers, on the other hand, can easily browse through a wide range of home decor appliances, make purchases, and even customize their orders. By leveraging technologies such as PHP, JavaScript, Bootstrap, and MySQL, the website offers a seamless shopping experience while promoting sustainability and affordability. Whether it's finding environmentally friendly furniture or stylish yet reasonably priced decor, this platform seeks to simplify the search process and enhance customer satisfaction, ultimately fostering deeper business relationships and increasing loyalty.
 
 # Technology used 
-1. Frontend - HTML, CSS, Bootstrap JavaScript
+1. Frontend - HTML, CSS, Bootstrap, JavaScript
 2. Backend - PHP
 3. Database - MySQL
 
@@ -26,6 +26,3 @@ The HomeDecorWebsite project aims to streamline the process of purchasing home d
 ![image](https://github.com/omvalia/HomeDecorWebiste/assets/68056992/8be185af-9b39-43d6-aa0b-d7b33c05daee)
 ![image](https://github.com/omvalia/HomeDecorWebiste/assets/68056992/a54000de-d85a-4dd4-9eea-b33071bea222)
 
-
-
-# Developed  by Om Valia
